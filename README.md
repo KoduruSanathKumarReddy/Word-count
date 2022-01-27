@@ -33,7 +33,7 @@ print('The number of words in the  file',text.name,'are :',count)
 ~~~
 ### OUTPUT:
 ## Python file:
-![](program.png)
+![](programs.png)
 ## Text file:
 ![](text.png)
 
