@@ -20,6 +20,8 @@ Process count+=len(word)
 End loop
 ### Step 7: 
 Print the value of count, which has the number of words in the file
+### Step 8:
+Stop
 ## PROGRAM:
 ~~~
 #Developed by:- Koduru Sanath Kumar Reddy
